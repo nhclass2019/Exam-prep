@@ -1,0 +1,26 @@
+A little how to on formating
+
+Final touch formatting can be done once the flash card information is inputed/imported.
+
+The easiest & fastest way to create flash cards is to use an editor like Geany to created text files.
+
+Anki accepts text file imports in this format:
+
+**********************************************
+Question is what you can do for your country?;build a supercomputer
+**********************************************
+
+...so a single line of text seperating question and answer by a semi-colon and ended by a line-break/enter keystroke
+
+To skip to a new line for your answers (or to skip a couple of lines and leave a space:
+
+add<br>to<br>the line
+
+or DNS<br><br>...stands for domain name resolution
+(this skips to a new line, then skips to a new line again)
+
+If you have any doubts, you can ask me in class of course, but the files included in Anki QA Files folder should give pretty good examples.
+
+For one person to make anki cards for all the book would take a long, long time. For a group this could be done in a couple weeks maybe.
+
+Best of luck to you all.
